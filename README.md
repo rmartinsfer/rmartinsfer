@@ -1,30 +1,30 @@
-<h1 align="left">Fala aí 👋 Tudo certo?</h1>
+<h1 align="left">Hey there 👋 All good?</h1>
 
 ###
 
-<p align="left">Meu nome é Rai Martins Ferreira, sou Engenheiro de Software, cofundador da Infinity Media Brasil e atualmente curso Engenharia de Software na PUC Campinas.</p>
+<p align="left">My name is Rai Martins Ferreira, I’m a Software Engineer, co-founder of Infinity Media Brasil, and currently studying Software Engineering at PUC Campinas.</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">
-🧠 Atuo com desenvolvimento de sistemas críticos, aplicativos em Flutter e soluções backend robustas com Kotlin + Firebase.<br>
-📚 Tenho formação em Física com ênfase em Matéria Condensada, onde trabalhei com simulações quânticas usando DFT (Teoria do Funcional da Densidade).<br>
-🛠️ Sou responsável por arquiteturas escaláveis em projetos reais utilizados em mais de 70 hotéis e 35 mil telas.<br>
-🚀 Meus interesses incluem Inteligência Artificial, computação quântica, redes, automação e integração com hardware.<br>
-💻 Especialista em Linux, automações com shell script e integração de software com servidores locais e nuvem privada.<br>
-🏎️ Apaixonado por carros, performance e tecnologia automotiva — de código a combustível, tudo que acelera me interessa.<br>
-🎯 Cofundador da Infinity Media Brasil, onde desenvolvo soluções inovadoras para o setor hoteleiro e hospitalar.<br>
-📍 Baseado em Valinhos - SP, Brasil.<br>
-🤖 Fun fact: Carros!
+🧠 I work with critical systems development, Flutter apps, and robust backend solutions using Kotlin + Firebase.<br>
+📚 I have a background in Physics with a focus on Condensed Matter, where I worked with quantum simulations using DFT (Density Functional Theory).<br>
+🛠️ I’m responsible for scalable architectures in real-world projects used in over 70 hotels and 35,000 screens.<br>
+🚀 My interests include Artificial Intelligence, quantum computing, networks, automation, and hardware integration.<br>
+💻 Linux specialist, shell script automation, and software integration with local and private cloud servers.<br>
+🏎️ Passionate about cars, performance, and automotive technology — from code to fuel, I’m into anything that goes fast.<br>
+🎯 Co-founder of Infinity Media Brasil, where I develop innovative solutions for the hospitality and healthcare sectors.<br>
+📍 Based in Valinhos - SP, Brazil.<br>
+🤖 Fun fact: Cars!
 </p>
 
 ###
 
-<h2 align="left">Entre em contato</h2>
+<h2 align="left">Get in touch</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que uso</h2>
+<h2 align="left">Technologies I use</h2>
 
 ###
 
